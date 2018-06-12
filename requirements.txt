@@ -4,5 +4,5 @@ numpy==1.14.3
 scipy==1.1.0
 seaborn==0.8.1
 matplotlib==2.1.2
-sklearn==0.19.1
+sklearn
 scikitplot==0.3.5
