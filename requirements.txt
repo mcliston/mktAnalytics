@@ -6,3 +6,4 @@ seaborn==0.8.1
 matplotlib==2.1.2
 sklearn
 scikit-plot
+xgboost==0.72
